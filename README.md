@@ -155,16 +155,6 @@
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-![Shuhong's GitHub stats](https://github-readme-stats.vercel.app/api?username=415400396&show_icons=true&hide_border=true&rank_icon=github&theme=transparent)
-
-</div>
-
----
-
 ## 📫 联系我 / Contact
 
 - **Email:** [415400396@qq.com](mailto:415400396@qq.com)
